@@ -3,9 +3,9 @@
 
 * How many trips have been recorded total during the chosen period? The total recorded trips is 348,426.
 
-* By what percentage has total ridership grown? It is down 38.28%.
+* By what percentage has total ridership grown? Subcribed riders is down 38.28%.
 
-* How has the proportion of short-term customers and annual subscribers changed? 
+* How has the proportion of short-term customers and annual subscribers changed? For the given 2 months, annual subcribers has dropped in proportion significantly.
 
 * What are the peak hours in which bikes are used during summer months? The peak hours for the summer months are 5PM through 7PM. These times are very consistant through the summer.
 
@@ -21,7 +21,7 @@
 
 * Today, what is the gender breakdown of active participants (Male v. Female)? 207,616 male customers to 87,408 female customers.
 
-* How effective has gender outreach been in increasing female ridership over the timespan? Unable to answer.
+* How effective has gender outreach been in increasing female ridership over the timespan? N/A
 
 * How does the average trip duration change by age? Please see AVG Trip By Age sheet.
 
@@ -29,4 +29,4 @@
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan? Please see Due for Service sheet.
 
-* How variable is the utilization by bike ID?
+* How variable is the utilization by bike ID? N/A
