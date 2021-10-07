@@ -1,5 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
+# Also hosted on Tableau Public - https://public.tableau.com/views/citibike_16336415929070/RecordedTotal?:language=en-US&:display_count=n&:origin=viz_share_link
 
 * How many trips have been recorded total during the chosen period? The total recorded trips is 348,426.
 
